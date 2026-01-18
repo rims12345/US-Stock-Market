@@ -17,7 +17,7 @@
 <li> Currency is the US Dollar</li> 
 </ul>
 <p> Logo of the Nasdaq Inc.</p>
-<img href="https://spaces.w3schools.com/space/usnasdaq/editor" <img src="https://www.brandcolorcode.com/images/color-palette/nasdaq.png"></a>
+<img href="https://spaces.w3schools.com/space/usnasdaq/editor" <img src="https://images.ctfassets.net/1fvlg6xqnm65/5IjFnEIndVRPdpQ3nwUwQU/09048458e324df1db40d192aa581079f/MF1_250428_Web_logo_f5f4f3_960x1080.png"></a>
 <ul>
 <h2>S&P 500</h2>
 <li> S&P 500 is the 500 largest publicly traded U.S. companies </li>
